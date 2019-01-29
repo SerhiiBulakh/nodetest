@@ -1,0 +1,31 @@
+2019-01-29T12:54:00.875221800 0.043062s notice: In recursion: removing file 'C:\\Users\\?????????\\Desktop\\token-based-auth-nodejs-jwt-master\\rethinkdb_data\\tmp'
+2019-01-29T12:54:00.880220200 0.047664s warn: Trying to delete non-existent file 'C:\\Users\\?????????\\Desktop\\token-based-auth-nodejs-jwt-master\\rethinkdb_data\\tmp'
+2019-01-29T12:54:00.885219500 0.052908s notice: Initializing directory C:\\Users\\?????????\\Desktop\\token-based-auth-nodejs-jwt-master\\rethinkdb_data
+2019-01-29T12:54:00.890221600 0.057756s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory 'C:\\Users\\?????????\\Desktop\\token-based-auth-nodejs-jwt-master\\rethinkdb_data' did not already exist or is empty.)
+2019-01-29T12:54:00.891223700 0.058858s notice: Running rethinkdb 2.3.6-windows (MSC 190024215)...
+2019-01-29T12:54:00.892234200 0.059302s notice: Running on 6.2.9200 (Windows 8, Server 2012)
+2019-01-29T12:54:00.892234201 0.059478s notice: Loading data from directory C:\\Users\\?????????\\Desktop\\token-based-auth-nodejs-jwt-master\\rethinkdb_data
+2019-01-29T12:54:01.820222000 0.988080s info: Automatically using cache size of 100 MB
+2019-01-29T12:54:01.821221300 0.988131s warn: Cache size does not leave much memory for server and query overhead (available memory: 786 MB).
+2019-01-29T12:54:01.821221301 0.988163s warn: Cache size is very low and may impact performance.
+2019-01-29T12:54:01.869253200 1.036599s notice: Listening for intracluster connections on port 29015
+2019-01-29T12:54:01.876250100 1.043497s notice: Listening for client driver connections on port 28015
+2019-01-29T12:54:01.876250101 1.044045s notice: Listening for administrative HTTP connections on port 8080
+2019-01-29T12:54:01.876250102 1.044051s notice: Listening on cluster address: 127.0.0.1
+2019-01-29T12:54:01.876250103 1.044057s notice: Listening on driver address: 127.0.0.1
+2019-01-29T12:54:01.876250104 1.044060s notice: Listening on http address: 127.0.0.1
+2019-01-29T12:54:01.876250105 1.044066s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2019-01-29T12:54:01.876250106 1.044072s notice: Server ready, "DESKTOP_JC24AJA_w94" 74e7965f-484c-4703-8809-3ce15bc82646
+2019-01-29T12:57:02.042596000 181.209632s info: Table 7f4910c0-c3c7-4b18-bf5f-5eeca9a60026: Starting a new Raft election for term 1.
+2019-01-29T12:57:02.042596001 181.210291s info: Table 7f4910c0-c3c7-4b18-bf5f-5eeca9a60026: Added replica on this server.
+2019-01-29T12:57:02.096567500 181.264229s info: Table 7f4910c0-c3c7-4b18-bf5f-5eeca9a60026: This server is Raft leader for term 1. Latest log index is 0.
+2019-01-29T15:24:28.250238800 9027.435690s info: Table 338a2b85-8bbe-491f-80d0-db5d0c903197: Starting a new Raft election for term 1.
+2019-01-29T15:24:28.656236800 9027.841689s info: Table 338a2b85-8bbe-491f-80d0-db5d0c903197: Added replica on this server.
+2019-01-29T15:24:28.949429100 9028.134659s info: Table 338a2b85-8bbe-491f-80d0-db5d0c903197: This server is Raft leader for term 1. Latest log index is 0.
+2019-01-29T16:16:55.399707900 12174.597059s info: Table a4ad1c6a-d4a6-43a6-a160-226a49402127: Starting a new Raft election for term 1.
+2019-01-29T16:16:55.465623300 12174.664644s info: Table a4ad1c6a-d4a6-43a6-a160-226a49402127: Added replica on this server.
+2019-01-29T16:16:55.575066200 12174.773279s info: Table a4ad1c6a-d4a6-43a6-a160-226a49402127: This server is Raft leader for term 1. Latest log index is 0.
+2019-01-29T16:20:20.738212100 12379.924455s info: Table f0636f33-17e4-4745-a009-4c474326d6e5: Starting a new Raft election for term 1.
+2019-01-29T16:20:20.738212101 12379.925780s info: Table f0636f33-17e4-4745-a009-4c474326d6e5: Added replica on this server.
+2019-01-29T16:20:20.799827100 12379.984983s info: Table f0636f33-17e4-4745-a009-4c474326d6e5: This server is Raft leader for term 1. Latest log index is 0.
+2019-01-29T16:57:54.717623500 14633.911755s notice: Server got Close (End Task) Event; shutting down...
